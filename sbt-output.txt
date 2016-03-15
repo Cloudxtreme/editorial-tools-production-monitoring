@@ -1,0 +1,12 @@
+[0m[[0minfo[0m] [0mLoading project definition from /Users/jharewinton/Documents/Git/editorial-tools-production-monitoring/project[0m
+[0m[[0minfo[0m] [0mSet current project to editorial-tools-production-monitoring (in build file:/Users/jharewinton/Documents/Git/editorial-tools-production-monitoring/)[0m
+--------------Start of Smoke Tests--------------
+[0m[[0minfo[0m] [0m[32mToolsSmokeTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mcomposer daashboard @ https://composer.gutools.co.uk[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return a 200[0m[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 1 second, 942 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 1[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 2, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 1, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[32msuccess[0m] [0mTotal time: 3 s, completed 15-Mar-2016 17:22:34[0m
