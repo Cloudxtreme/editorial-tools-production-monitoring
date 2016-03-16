@@ -9,8 +9,8 @@ object Config {
 
   val composerBaseUrl = config.getString(s"$stage.composer-base-url")
 
-  val domain          = config.getString(s"$stage.panda.domain")
-  val system          = config.getString(s"$stage.panda.system")
+  val domain          = config.getString("panda.domain")
+  val system          = config.getString("panda.system")
 
   val userFirstName            = config.getString("user.firstName")
   val userSecondName           = config.getString("user.secondName")
